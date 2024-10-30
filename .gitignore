@@ -1,5 +1,5 @@
-dist
 .venv
 build
 *.spec
 *.txt
+WordsApp.ico
