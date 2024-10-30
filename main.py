@@ -278,7 +278,7 @@ class WordsApp:
         # self.driver.quit()
         self.root.destroy()
         if self.word_file_name:
-            # 保存当前选择的单词表文件名到配置文件或注册表
+            # 保存当前选择的单词表文件名到配置文件
             pass
 
 
