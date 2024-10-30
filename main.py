@@ -105,7 +105,7 @@ class WordsApp:
         if not self.words_loaded:  # 如果单词列表未加载，尝试加载
             try:
                 with open('words.json', 'r', encoding='utf-8') as f:
-                    self.words_dict = json.load(f)['word']
+                    self.words_dict = json.load(f)['words']
                 self.print_words()
                 self.words_loaded = True  # 标记单词列表已加载
             except (FileNotFoundError, json.JSONDecodeError) as e:
@@ -126,7 +126,7 @@ class WordsApp:
     def load_word_file(self, file_path):
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
-                self.words_dict = json.load(f)['word']
+                self.words_dict = json.load(f)['words']
             self.word_file_name = file_path
             self.print_words()
             messagebox.showinfo("成功", "单词表加载成功。")
