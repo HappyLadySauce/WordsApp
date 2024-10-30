@@ -2,4 +2,4 @@
 build
 *.spec
 *.txt
-WordsApp.ico
+*.ico
