@@ -115,7 +115,7 @@
             "v.": "喂养(on)"
         },
         "compete": {
-            "v.": "竞争"
+            "v.": "比赛(with/for/against)"
         },
         "pressure": {
             "n.": "压力,压强"
@@ -176,7 +176,7 @@
             "v.": "寻找"
         },
         "complain": {
-            "v.": "抱怨"
+            "v.": "抱怨(to/about)"
         },
         "original": {
             "adj.": "原始的,最初的"
@@ -310,6 +310,1632 @@
         },
         "labor": {
             "n.": "劳力"
+        },
+        "private": {
+            "adj.": "私人的"
+        },
+        "repeat": {
+            "v.": "重复"
+        },
+        "spirit": {
+            "n.": "精神"
+        },
+        "suppose": {
+            "v.": "假设,认为"
+        },
+        "desert": {
+            "n.": "沙漠",
+            "v.": "遗弃"
+        },
+        "exchange": {
+            "n.": "交换",
+            "v.": "交换(for)"
+        },
+        "fairly": {
+            "adv.": "公正地,相当地"
+        },
+        "regret": {
+            "v.": "后悔",
+            "n.": "后悔"
+        },
+        "strict": {
+            "adj.": "严格的 (with)"
+        },
+        "confirm": {
+            "v.": "证实,肯定,确定"
+        },
+        "gradually": {
+            "adv.": "逐渐地"
+        },
+        "belief": {
+            "n.": "信念,信仰"
+        },
+        "imagination": {
+            "n.": "想象力"
+        },
+        "official": {
+            "adj.": "正式的,官方的"
+        },
+        "account": {
+            "n.": "帐户,事情",
+            "v.": "说明(for)"
+        },
+        "persuade": {
+            "v.": "说服"
+        },
+        "figure": {
+            "n.": "人物",
+            "v.": "算出,领会(out)"
+        },
+        "seldom": {
+            "adv.": "很少"
+        },
+        "eager": {
+            "adj.": "渴望的 (to)"
+        },
+        "recommend": {
+            "v.": "推荐,建议"
+        },
+        "remove": {
+            "v.": "移除"
+        },
+        "unique": {
+            "adj.": "唯一的"
+        },
+        "risk": {
+            "v.": "冒...的危险(of)",
+            "n.": "危险,风险"
+        },
+        "economic": {
+            "adj.": "经济的"
+        },
+        "pollution": {
+            "n.": "污染"
+        },
+        "literature": {
+            "n.": "文学"
+        },
+        "consume": {
+            "v.": "消耗,消费"
+        },
+        "stick": {
+            "v.": "粘住,坚持 (to)"
+        },
+        "devote": {
+            "v.": "致力于 (to)"
+        },
+        "predict": {
+            "v.": "预言"
+        },
+        "annoy": {
+            "v.": "使恼怒"
+        },
+        "apply": {
+            "v.": "应用 (to), 申请 (for)"
+        },
+        "handle": {
+            "v.": "处理",
+            "n.": "手段"
+        },
+        "object": {
+            "v.": "反对(to)",
+            "n.": "目标,物体"
+        },
+        "select": {
+            "v.": "挑选"
+        },
+        "opposite": {
+            "adj.": "相反的,对面的"
+        },
+        "solution": {
+            "n.": "解决办法"
+        },
+        "struggle": {
+            "n.": "斗争,挣扎",
+            "v.": "斗争,挣扎(against)"
+        },
+        "approach": {
+            "v.": "靠近",
+            "n.": "途径,方法 (to)"
+        },
+        "urgent": {
+            "adj.": "紧急的"
+        },
+        "delight": {
+            "n.": "高兴"
+        },
+        "talent": {
+            "n.": "天赋,才华"
+        },
+        "disadvantage": {
+            "n.": "不利地位,不利条件"
+        },
+        "arrange": {
+            "v.": "安排"
+        },
+        "wealth": {
+            "n.": "财富"
+        },
+        "security": {
+            "n.": "安全"
+        },
+        "entire": {
+            "adj.": "全部的,整个的"
+        },
+        "positive": {
+            "adj.": "积极的"
+        },
+        "rarely": {
+            "adv.": "很少"
+        },
+        "reflect": {
+            "v.": "反射,反映"
+        },
+        "contact": {
+            "v.": "接触,联系(with)",
+            "n.": "接触,联系"
+        },
+        "hesitate": {
+            "v.": "犹豫"
+        },
+        "permit": {
+            "v.": "允许"
+        },
+        "rapid": {
+            "adj.": "迅速的"
+        },
+        "colleague": {
+            "n.": "同事"
+        },
+        "conclude": {
+            "v.": "总结"
+        },
+        "host": {
+            "n.": "主人,主持人",
+            "v.": "主办,主持"
+        },
+        "discover": {
+            "v.": "发现；暴露,显示"
+        },
+        "disappear": {
+            "v.": "不见,消失"
+        },
+        "possess": {
+            "v.": "拥有"
+        },
+        "collection": {
+            "n.": "收集"
+        },
+        "survive": {
+            "v.": "幸存"
+        },
+        "feature": {
+            "n.": "特征"
+        },
+        "appreciate": {
+            "v.": "欣赏,感激"
+        },
+        "embarrass": {
+            "v.": "使尴尬"
+        },
+        "profit": {
+            "n.": "利润,利益",
+            "v.": "获利"
+        },
+        "ancient": {
+            "adj.": "古老的"
+        },
+        "historical": {
+            "adj.": "历史的"
+        },
+        "victim": {
+            "n.": "受害者"
+        },
+        "broaden": {
+            "v.": "变宽,扩大"
+        },
+        "plastic": {
+            "n.": "塑料",
+            "adj.": "可塑的"
+        },
+        "primary": {
+            "adj.": "主要的,首要的,初级的"
+        },
+        "reaction": {
+            "n.": "反应(to)"
+        },
+        "represent": {
+            "v.": "展示,代表"
+        },
+        "response": {
+            "n.": "反应,响应 (to)"
+        },
+        "surround": {
+            "v.": "包围"
+        },
+        "average": {
+            "adj.": "平均的"
+        },
+        "smooth": {
+            "v.": "使顺利,使光滑",
+            "adj.": "顺利的,光滑的"
+        },
+        "cast": {
+            "v.": "投射,掷"
+        },
+        "chemical": {
+            "adj.": "化学的",
+            "n.": "药品"
+        },
+        "prison": {
+            "n.": "监狱"
+        },
+        "purchase": {
+            "v.": "购买",
+            "n.": "购买"
+        },
+        "straight": {
+            "adj.": "直的,直接的"
+        },
+        "switch": {
+            "v.": "转换(on)",
+            "n.": "对待,治疗"
+        },
+        "treatment": {
+            "n.": "对待,治疗"
+        },
+        "aware": {
+            "adj.": "意识到的 (of)"
+        },
+        "narrow": {
+            "adj.": "狭窄的"
+        },
+        "hire": {
+            "v.": "雇请"
+        },
+        "shoulder": {
+            "n.": "肩膀",
+            "v.": "肩负"
+        },
+        "content": {
+            "n.": "内容,目录",
+            "adj.": "满意的(with)"
+        },
+        "contribute": {
+            "v.": "贡献,致力于(to)"
+        },
+        "concert": {
+            "n.": "音乐会"
+        },
+        "conflict": {
+            "n.": "冲突"
+        },
+        "decade": {
+            "n.": "十年"
+        },
+        "sincere": {
+            "adj.": "真诚的"
+        },
+        "release": {
+            "v.": "释放",
+            "n.": "释放"
+        },
+        "constant": {
+            "adj.": "持续不断的"
+        },
+        "conduct": {
+            "v.": "实施"
+        },
+        "overcome": {
+            "v.": "战胜,克服"
+        },
+        "recycle": {
+            "v.": "循环"
+        },
+        "translate": {
+            "v.": "翻译"
+        },
+        "fond": {
+            "adj.": "喜欢的 (of)"
+        },
+        "grateful": {
+            "adj.": "感激的 (to)"
+        },
+        "guard": {
+            "v.": "保卫",
+            "n.": "看守"
+        },
+        "motivate": {
+            "v.": "激发"
+        },
+        "pause": {
+            "v.": "停顿",
+            "n.": "暂停"
+        },
+        "celebrate": {
+            "v.": "庆祝"
+        },
+        "trick": {
+            "v.": "欺骗",
+            "n.": "诡计"
+        },
+        "anxiety": {
+            "n.": "焦虑"
+        },
+        "debate": {
+            "v.": "辩论",
+            "n.": "辩论"
+        },
+        "delay": {
+            "v.": "推迟",
+            "n.": "耽搁"
+        },
+        "deserve": {
+            "v.": "值得"
+        },
+        "schedule": {
+            "n.": "时间表",
+            "v.": "安排,预定"
+        },
+        "specific": {
+            "adj.": "特定的,具体的"
+        },
+        "concentrate": {
+            "v.": "专心,集中(on)"
+        },
+        "quit": {
+            "v.": "停止,放弃"
+        },
+        "discuss": {
+            "v.": "讨论"
+        },
+        "sympathy": {
+            "n.": "同情"
+        },
+        "alternative": {
+            "adj.": "供选择的",
+            "n.": "替换物"
+        },
+        "analyze": {
+            "v.": "分析"
+        },
+        "display": {
+            "n.": "陈列,展览",
+            "v.": "显示"
+        },
+        "aspect": {
+            "n.": "方面"
+        },
+        "disability": {
+            "n.": "残疾"
+        },
+        "admire": {
+            "v.": "钦佩,羡慕"
+        },
+        "adolescent": {
+            "adj.": "青春期的",
+            "n.": "青少年"
+        },
+        "faithfully": {
+            "adv.": "忠实地"
+        },
+        "previous": {
+            "adj.": "以前的"
+        },
+        "reliable": {
+            "adj.": "可靠的"
+        },
+        "legal": {
+            "adj.": "合法的,法律的"
+        },
+        "symbol": {
+            "n.": "象征"
+        },
+        "trap": {
+            "n.": "陷阱"
+        },
+        "apologize": {
+            "v.": "道歉 (to sb for sth)"
+        },
+        "mistaken": {
+            "adj.": "错误的"
+        },
+        "vehicle": {
+            "n.": "车辆,交通工具"
+        },
+        "brief": {
+            "adj.": "简短的,短暂的,灵敏的"
+        },
+        "sharp": {
+            "adj.": "急剧的,锋利的"
+        },
+        "ordinary": {
+            "adj.": "普通的"
+        },
+        "absorb": {
+            "v.": "吸收，使全神贯注"
+        },
+        "ceremony": {
+            "n.": "典礼"
+        },
+        "maintain": {
+            "v.": "维持"
+        },
+        "consequence": {
+            "n.": "后果"
+        },
+        "citizen": {
+            "n.": "市民"
+        },
+        "violence": {
+            "n.": "暴力"
+        },
+        "distinguish": {
+            "v.": "(~from)区别,辩别,分清"
+        },
+        "distribute": {
+            "v.": "分发,分送,分配"
+        },
+        "shame": {
+            "n.": "羞愧"
+        },
+        "divide": {
+            "v.": "分,划分"
+        },
+        "accurate": {
+            "adj.": "精确的"
+        },
+        "adapt": {
+            "v.": "适应 (to),改编"
+        },
+        "regardless": {
+            "adv.": "不顾(of)"
+        },
+        "commercial": {
+            "adj.": "商业的"
+        },
+        "amaze": {
+            "v.": "使吃惊"
+        },
+        "amuse": {
+            "v.": "娱乐"
+        },
+        "attach": {
+            "v.": "附上,系上 (to)"
+        },
+        "typical": {
+            "adj.": "特有的,典型的"
+        },
+        "negative": {
+            "adj.": "消极的,负面的"
+        },
+        "species": {
+            "n.": "种类, (单复同）物种"
+        },
+        "occasion": {
+            "n.": "场合,时机"
+        },
+        "cautious": {
+            "adj.": "谨慎的,小心的"
+        },
+        "engage": {
+            "v.": "从事(in),订婚"
+        },
+        "expose": {
+            "v.": "揭露,暴露(to)"
+        },
+        "political": {
+            "adj.": "政治的"
+        },
+        "convenient": {
+            "adj.": "方便的"
+        },
+        "assess": {
+            "v.": "评定,评估"
+        },
+        "astonish": {
+            "v.": "使惊评"
+        },
+        "guarantee": {
+            "v.": "保证",
+            "n.": "保证"
+        },
+        "decline": {
+            "v.": "下降,拒绝",
+            "n.": "衰落"
+        },
+        "background": {
+            "n.": "背景"
+        },
+        "mysterious": {
+            "adj.": "神秘的"
+        },
+        "block": {
+            "n.": "街区",
+            "v.": "阻塞"
+        },
+        "emergency": {
+            "n.": "突发事件"
+        },
+        "sink": {
+            "v.": "下沉(into)"
+        },
+        "abandon": {
+            "v.": "抛弃，舍弃，放弃"
+        },
+        "adjust": {
+            "v.": "调节,使适应(to)"
+        },
+        "capital": {
+            "n.": "首都,资本",
+            "adj.": "大写的,资本的"
+        },
+        "charm": {
+            "n.": "魅力"
+        },
+        "evaluate": {
+            "v.": "评价"
+        },
+        "exploit": {
+            "v.": "利用,开发"
+        },
+        "poison": {
+            "v.": "毒害"
+        },
+        "migrate": {
+            "v.": "迁移,迁徙"
+        },
+        "current": {
+            "adj.": "现在的"
+        },
+        "combine": {
+            "v.": "结合 (with)"
+        },
+        "sweep": {
+            "v.": "打扫,席卷"
+        },
+        "trade": {
+            "n.": "贸易"
+        },
+        "appointment": {
+            "n.": "约会"
+        },
+        "guilty": {
+            "adj.": "内疚的(of),有罪的"
+        },
+        "document": {
+            "n.": "公文,文件,文献"
+        },
+        "earthquake": {
+            "n.": "地震"
+        },
+        "charity": {
+            "n.": "慈善"
+        },
+        "jog": {
+            "v.": "慢跑"
+        },
+        "ensure": {
+            "v.": "确保"
+        },
+        "poverty": {
+            "n.": "贫困"
+        },
+        "precise": {
+            "adj.": "精确的"
+        },
+        "consult": {
+            "v.": "咨询,请教"
+        },
+        "crime": {
+            "n.": "罪行"
+        },
+        "complex": {
+            "adj.": "复杂的"
+        },
+        "forbid": {
+            "v.": "禁止"
+        },
+        "effective": {
+            "adj.": "有效的,生效的"
+        },
+        "gap": {
+            "n.": "缺口,差距"
+        },
+        "apparent": {
+            "adj.": "明显的"
+        },
+        "unexpected": {
+            "adj.": "想不到的,意外的"
+        },
+        "unwilling": {
+            "adj.": "不愿意的"
+        },
+        "efficient": {
+            "adj.": "效率高的,有能力的"
+        },
+        "retire": {
+            "v.": "退休",
+            "n.": "退休"
+        },
+        "defend": {
+            "v.": "保卫,辩护"
+        },
+        "withdraw": {
+            "v.": "撤回,取回"
+        },
+        "participate": {
+            "v.": "参加,参与 (in)"
+        },
+        "enable": {
+            "v.": "使能够"
+        },
+        "accompany": {
+            "v.": "陪伴"
+        },
+        "chief": {
+            "adj.": "主要的,首要的",
+            "n.": "首领"
+        },
+        "explode": {
+            "v.": "爆炸"
+        },
+        "precious": {
+            "adj.": "珍贵的"
+        },
+        "register": {
+            "v.": "注册,登记"
+        },
+        "remark": {
+            "v.": "评论",
+            "n.": "评论"
+        },
+        "curiosity": {
+            "n.": "好奇心"
+        },
+        "theory": {
+            "n.": "理论"
+        },
+        "elect": {
+            "v.": "选举,推选;选择"
+        },
+        "affordable": {
+            "adj.": "支付得起的"
+        },
+        "atmosphere": {
+            "n.": "大气, 氛围"
+        },
+        "household": {
+            "n.": "家庭"
+        },
+        "humour": {
+            "n.": "幽默"
+        },
+        "enlarge": {
+            "v.": "扩大,扩展,放大"
+        },
+        "wipe": {
+            "v.": "擦"
+        },
+        "optimistic": {
+            "adj.": "乐观的"
+        },
+        "significant": {
+            "adj.": "重要的"
+        },
+        "region": {
+            "n.": "地区, 范围"
+        },
+        "addiction": {
+            "n.": "上瘾(to)"
+        },
+        "facility": {
+            "n.": "设施"
+        },
+        "recall": {
+            "v.": "回忆"
+        },
+        "remote": {
+            "adj.": "偏远的"
+        },
+        "resist": {
+            "v.": "抵制, 抵抗"
+        },
+        "tax": {
+            "n.": "税"
+        },
+        "fascinate": {
+            "v.": "使入迷"
+        },
+        "ambition": {
+            "n.": "雄心"
+        },
+        "appeal": {
+            "n.": "呼吁",
+            "v.": "吸引, 呼吁(to)"
+        },
+        "associate": {
+            "v.": "联系(with)"
+        },
+        "declare": {
+            "v.": "声明"
+        },
+        "entertain": {
+            "v.": "使欢乐,使娱乐;招待,款待"
+        },
+        "severe": {
+            "adj.": "严重的"
+        },
+        "academic": {
+            "adj.": "学术的",
+            "n.": "教授"
+        },
+        "envelope": {
+            "n.": "信封"
+        },
+        "underline": {
+            "v.": "在...下面划线"
+        },
+        "chain": {
+            "n.": "链条,一连串"
+        },
+        "essential": {
+            "adj.": "本质"
+        },
+        "psychology": {
+            "n.": "心理,心理学"
+        },
+        "reserve": {
+            "v.": "预定,保留",
+            "n.": "自然保护区"
+        },
+        "establish": {
+            "v.": "建立,创办,设立"
+        },
+        "consist": {
+            "v.": "由...组成(of/in)"
+        },
+        "contest": {
+            "n.": "竞赛",
+            "v.": "竞赛"
+        },
+        "command": {
+            "v.": "命令,获得"
+        },
+        "comprehension": {
+            "n.": "理解"
+        },
+        "tough": {
+            "adj.": "艰难的,棘手的"
+        },
+        "trend": {
+            "n.": "趋势",
+            "v.": "倾向"
+        },
+        "assignment": {
+            "n.": "分配,任务"
+        },
+        "assistant": {
+            "n.": "助手"
+        },
+        "bargain": {
+            "n.": "便宜货,交易；特价商品",
+            "v.": "讨价还价"
+        },
+        "destination": {
+            "n.": "目的地"
+        },
+        "apot": {
+            "v.": "采用,收养"
+        },
+        "cheat": {
+            "n.": "骗子",
+            "v.": "欺骗"
+        },
+        "cheque": {
+            "n.": "支票"
+        },
+        "preserve": {
+            "v.": "保护，保存"
+        },
+        "propose": {
+            "v.": "计划，提议，求婚"
+        },
+        "manufacture": {
+            "n.": "制造，制造业",
+            "v.": "制造"
+        },
+        "crisis": {
+            "n.": "危机"
+        },
+        "foundation": {
+            "n.": "基金会，基础"
+        },
+        "appropriate": {
+            "adj.": "适当的"
+        },
+        "approve": {
+            "v.": "赞同，同意(of)"
+        },
+        "express": {
+            "v.": "(用言词)表述,陈述"
+        },
+        "factor": {
+            "n.": "要素;因素"
+        },
+        "routine": {
+            "n.": "例行公事",
+            "adj.": "常规的，例行的"
+        },
+        "impractical": {
+            "adj.": "不切实际的"
+        },
+        "vital": {
+            "adj.": "至关重要的"
+        },
+        "absence": {
+            "n.": "缺乏，缺席"
+        },
+        "peak": {
+            "n.": "山峰，顶端"
+        },
+        "temporary": {
+            "adj.": "暂时的"
+        },
+        "failure": {
+            "n.": "失败"
+        },
+        "universal": {
+            "adj.": "普遍的"
+        },
+        "grasp": {
+            "v.": "抓住；领会"
+        },
+        "decrease": {
+            "v.": "降低",
+            "n.": "降低"
+        },
+        "beneficial": {
+            "adj.": "有益的 (to)"
+        },
+        "define": {
+            "v.": "定义"
+        },
+        "mislead": {
+            "v.": "误导"
+        },
+        "witness": {
+            "n.": "目击者，证人",
+            "v.": "目击"
+        },
+        "wrap": {
+            "v.": "包，裹"
+        },
+        "candidate": {
+            "n.": "候选人"
+        },
+        "affair": {
+            "n.": "事件"
+        },
+        "acquire": {
+            "v.": "获得，学到"
+        },
+        "certificate": {
+            "n.": "证书，执照"
+        },
+        "champion": {
+            "n.": "冠军",
+            "v.": "保卫"
+        },
+        "estimate": {
+            "v.": "估计"
+        },
+        "exhausted": {
+            "adj.": "精疲力竭的"
+        },
+        "refresh": {
+            "v.": "恢复精神"
+        },
+        "contract": {
+            "n.": "合同",
+            "v.": "订合同"
+        },
+        "critical": {
+            "adj.": "批评的，决定性的"
+        },
+        "civil": {
+            "adj.": "国内的，公民的"
+        },
+        "compose": {
+            "v.": "组成，编排"
+        },
+        "splendid": {
+            "adj.": "极好的"
+        },
+        "strike": {
+            "v.": "打",
+            "n.": "罢工"
+        },
+        "threaten": {
+            "v.": "威胁"
+        },
+        "tragedy": {
+            "n.": "悲剧"
+        },
+        "transform": {
+            "v.": "转换"
+        },
+        "complete": {
+            "adj.": "完成的"
+        },
+        "sensitive": {
+            "adj.": "敏感的"
+        },
+        "fetch": {
+            "v.": "取来"
+        },
+        "frequently": {
+            "adv.": "频繁地"
+        },
+        "glance": {
+            "v.": "扫视",
+            "n.": "一瞥(at)"
+        },
+        "assume": {
+            "v.": "假定，设想"
+        },
+        "uncertain": {
+            "adj.": "不确定的"
+        },
+        "urban": {
+            "adj.": "城市的"
+        },
+        "harbour": {
+            "n.": "港口"
+        },
+        "harmony": {
+            "n.": "和谐"
+        },
+        "identify": {
+            "v.": "识别,鉴定"
+        },
+        "impact": {
+            "n.": "影响"
+        },
+        "distinct": {
+            "adj.": "不同的"
+        },
+        "valuable": {
+            "adj.": "贵重的"
+        },
+        "burst": {
+            "v.": "爆发(into/out)，闯入"
+        },
+        "cancel": {
+            "v.": "取消"
+        },
+        "financial": {
+            "adj.": "财政的,金融的"
+        },
+        "casual": {
+            "adj.": "不经心的，偶然的"
+        },
+        "courageous": {
+            "adj.": "勇敢的"
+        },
+        "principle": {
+            "n.": "原则"
+        },
+        "flexible": {
+            "adj.": "强烈的，灵活的"
+        },
+        "flight": {
+            "n.": "航班，班机"
+        },
+        "advocate": {
+            "v.": "提倡"
+        },
+        "ashamed": {
+            "adj.": "感到惭愧的(of)"
+        },
+        "flood": {
+            "n.": "洪水,水灾"
+        },
+        "decorate": {
+            "v.": "装饰"
+        },
+        "rough": {
+            "adj.": "粗糙的，艰难的"
+        },
+        "honorable": {
+            "adj.": "光荣的"
+        },
+        "illegal": {
+            "adj.": "非法的"
+        },
+        "negotiate": {
+            "v.": "协商 (with)"
+        },
+        "vivid": {
+            "adj.": "生动的"
+        },
+        "scan": {
+            "v.": "扫描，浏览"
+        },
+        "matter": {
+            "n.": "事情",
+            "v.": "要紧"
+        },
+        "selfish": {
+            "adj.": "自私的"
+        },
+        "burden": {
+            "n.": "负担",
+            "v.": "使...负重"
+        },
+        "absolute": {
+            "adj.": "绝对的，完全的"
+        },
+        "accomplish": {
+            "v.": "实现，完成"
+        },
+        "accuse": {
+            "v.": "控告(of)，指责"
+        },
+        "consider": {
+            "v.": "考虑，认为"
+        },
+        "support": {
+            "v.": "支持"
+        },
+        "protect": {
+            "v.": "保护"
+        },
+        "reject": {
+            "v.": "拒绝，排斥"
+        },
+        "mild": {
+            "adj.": "轻微的，温和的"
+        },
+        "symptom": {
+            "n.": "征兆，症状"
+        },
+        "treasure": {
+            "n.": "财富"
+        },
+        "tuition": {
+            "n.": "学费"
+        },
+        "professional": {
+            "adj.": "专业的",
+            "n.": "职业，专业"
+        },
+        "freezing": {
+            "adj.": "冰冻的"
+        },
+        "annual": {
+            "adj.": "每年的"
+        },
+        "antique": {
+            "adj.": "古老的",
+            "n.": "古董"
+        },
+        "arise": {
+            "v.": "出现"
+        },
+        "unemployment": {
+            "n.": "失业"
+        },
+        "gravity": {
+            "n.": "重力"
+        },
+        "rural": {
+            "adj.": "农村的"
+        },
+        "widen": {
+            "v.": "使变宽"
+        },
+        "murder": {
+            "n.": "谋杀",
+            "v.": "谋杀"
+        },
+        "horizon": {
+            "n.": "地平线"
+        },
+        "require": {
+            "v.": "要求"
+        },
+        "desperate": {
+            "adj.": "绝望的"
+        },
+        "weaken": {
+            "v.": "削弱"
+        },
+        "creative": {
+            "adj.": "创造性的"
+        },
+        "acknowledge": {
+            "v.": "承认"
+        },
+        "payment": {
+            "n.": "支付，报酬"
+        },
+        "priority": {
+            "n.": "优先"
+        },
+        "deal": {
+            "v.": "处理（with）",
+            "n.": "交易"
+        },
+        "prefer": {
+            "v.": "更喜欢"
+        },
+        "quality": {
+            "n.": "质量，品质"
+        },
+        "perform": {
+            "v.": "执行，表演"
+        },
+        "cooperate": {
+            "v.": "合作 (with)"
+        },
+        "tight": {
+            "adj.": "紧的"
+        },
+        "tropical": {
+            "adj.": "热带的"
+        },
+        "fierce": {
+            "adj.": "凶猛的"
+        },
+        "fortunate": {
+            "adj.": "幸运的"
+        },
+        "giant": {
+            "adj.": "巨大的"
+        },
+        "promise": {
+            "n.": "诺言",
+            "v.": "允诺，答应"
+        },
+        "anniversary": {
+            "n.": "周年纪念"
+        },
+        "undoubtedly": {
+            "adv.": "无疑地"
+        },
+        "condition": {
+            "n.": "情况，条件"
+        },
+        "barely": {
+            "adv.": "几乎不"
+        },
+        "rival": {
+            "n.": "对手",
+            "v.": "竞争"
+        },
+        "salary": {
+            "n.": "薪水"
+        },
+        "vary": {
+            "v.": "改变，不同"
+        },
+        "demonstrate": {
+            "v.": "证明，演示"
+        },
+        "beneath": {
+            "prep.": "在...之下"
+        },
+        "brilliant": {
+            "adj.": "卓越的，杰出的"
+        },
+        "optional": {
+            "adj.": "任选的"
+        },
+        "suffer": {
+            "v.": "遭受 (from)"
+        },
+        "emphasis": {
+            "n.": "强调(on)"
+        },
+        "calculate": {
+            "v.": "计算"
+        },
+        "permanent": {
+            "adj.": "永久的"
+        },
+        "capture": {
+            "v.": "捕获，占领"
+        },
+        "justice": {
+            "n.": "正义"
+        },
+        "keen": {
+            "adj.": "热衷的(on)，敏锐的"
+        },
+        "pure": {
+            "adj.": "纯的，纯粹的"
+        },
+        "pursue": {
+            "v.": "追求"
+        },
+        "reform": {
+            "v.": "改革",
+            "n.": "改革"
+        },
+        "legend": {
+            "n.": "传奇"
+        },
+        "clarify": {
+            "v.": "阐明"
+        },
+        "speech": {
+            "n.": "演讲"
+        },
+        "respect": {
+            "v.": "尊敬，尊重",
+            "n.": "尊敬，尊重"
+        },
+        "transfer": {
+            "v.": "转移"
+        },
+        "trigger": {
+            "v.": "触发"
+        },
+        "fasten": {
+            "v.": "使固定，系(to)"
+        },
+        "fulfill": {
+            "v.": "完成"
+        },
+        "arrest": {
+            "v.": "逮捕"
+        },
+        "unbelievable": {
+            "adj.": "难以置信的"
+        },
+        "unconscious": {
+            "adj.": "无知觉(意识)的"
+        },
+        "unforgettable": {
+            "adj.": "难忘的"
+        },
+        "valid": {
+            "adj.": "有效的"
+        },
+        "deadline": {
+            "n.": "截止时间"
+        },
+        "restore": {
+            "v.": "修复，恢复"
+        },
+        "reveal": {
+            "v.": "显示，表明"
+        },
+        "immigrant": {
+            "n.": "移民"
+        },
+        "opponent": {
+            "n.": "对手"
+        },
+        "shrink": {
+            "v.": "缩水，收缩"
+        },
+        "skeptical": {
+            "adj.": "怀疑的"
+        },
+        "abstract": {
+            "adj.": "抽象的，理论的"
+        },
+        "abuse": {
+            "n.": "滥用",
+            "v.": "滥用"
+        },
+        "disappoint": {
+            "v.": "使失望"
+        },
+        "accustom": {
+            "v.": "使习惯 (to)"
+        },
+        "capability": {
+            "n.": "能力"
+        },
+        "raise": {
+            "v.": "举起，筹集，提出"
+        },
+        "refer": {
+            "v.": "涉及，提到，查阅（to）"
+        },
+        "ability": {
+            "n.": "能力；才能"
+        },
+        "protest": {
+            "v.": "抗议 (against)"
+        },
+        "able": {
+            "adj.": "能够；有能力的"
+        },
+        "superior": {
+            "adj.": "上层的，较高的(to)"
+        },
+        "surgery": {
+            "n.": "外科手术"
+        },
+        "thoroughly": {
+            "adv.": "彻底地"
+        },
+        "abnormal": {
+            "adj.": "反常的，变态的"
+        },
+        "abroad": {
+            "adv.": "到（在）国外"
+        },
+        "fundamental": {
+            "adj.": "基本的",
+            "n.": "基础"
+        },
+        "absent": {
+            "adj.": "缺席，不在"
+        },
+        "appetite": {
+            "n.": "食欲(for)，嗜好"
+        },
+        "arouse": {
+            "v.": "引起"
+        },
+        "awful": {
+            "adj.": "糟糕的"
+        },
+        "vain": {
+            "adj.": "徒劳的 (in～ 徒劳无功)"
+        },
+        "restless": {
+            "adj.": "不安的"
+        },
+        "moderate": {
+            "adj.": "适度的"
+        },
+        "offence": {
+            "n.": "冒犯，犯罪"
+        },
+        "delicate": {
+            "adj.": "脆弱的，精细的"
+        },
+        "wag": {
+            "n.": "摇摆",
+            "v.": "摇摆 (狗）摇摆 (尾巴)"
+        },
+        "breakthrough": {
+            "n.": "突破"
+        },
+        "reluctant": {
+            "adj.": "不情愿的，勉强的"
+        },
+        "accent": {
+            "n.": "口音，重音"
+        },
+        "adequate": {
+            "adj.": "足够的"
+        },
+        "abundant": {
+            "adj.": "大量，丰盛的"
+        },
+        "prosperity": {
+            "n.": "繁荣，兴旺"
+        },
+        "resemble": {
+            "v.": "与...相似"
+        },
+        "resolution": {
+            "n.": "决心，解决"
+        },
+        "mature": {
+            "adj.": "成熟的"
+        },
+        "latter": {
+            "adj.": "后者的"
+        },
+        "accept": {
+            "v.": "接受"
+        },
+        "tolerate": {
+            "v.": "容忍，忍受"
+        },
+        "accident": {
+            "n.": "事故，意外的事"
+        },
+        "artificial": {
+            "adj.": "人造的"
+        },
+        "athletic": {
+            "adj.": "运动的，健壮的"
+        },
+        "awkward": {
+            "adj.": "尴尬的"
+        },
+        "according to": {
+            "prep.": "按照，根据"
+        },
+        "restrict": {
+            "v.": "限制"
+        },
+        "minimize": {
+            "v.": "使减（缩）小到最低"
+        },
+        "miracle": {
+            "n.": "奇迹"
+        },
+        "multiple": {
+            "adj.": "多种多样的"
+        },
+        "neglect": {
+            "v.": "忽视，忽略"
+        },
+        "notorious": {
+            "adj.": "臭名昭著的"
+        },
+        "achieve": {
+            "vt.": "实现，达到"
+        },
+        "across": {
+            "prep.": "横过，穿过"
+        },
+        "action": {
+            "n.": "行动"
+        },
+        "perspective": {
+            "n.": "视角，观点"
+        },
+        "category": {
+            "n.": "类别，种类"
+        },
+        "exclude": {
+            "v.": "排除"
+        },
+        "pregnant": {
+            "adj.": "怀孕的"
+        },
+        "random": {
+            "adj.": "随机的"
+        },
+        "activity": {
+            "n.": "活动"
+        },
+        "leak": {
+            "v.": "渗出"
+        },
+        "starve": {
+            "v.": "饿死"
+        },
+        "actual": {
+            "adj.": "实际的"
+        },
+        "sustainable": {
+            "adj.": "可持续的"
+        },
+        "temptation": {
+            "n.": "诱惑"
+        },
+        "tiresome": {
+            "adj.": "累人的"
+        },
+        "tourism": {
+            "n.": "旅游"
+        },
+        "transition": {
+            "n.": "过渡"
+        },
+        "add": {
+            "vt.": "添加"
+        },
+        "address": {
+            "n.": "地址"
+        },
+        "attribute": {
+            "v.": "归因于"
+        },
+        "decisive": {
+            "adj.": "决定性的"
+        },
+        "alone": {
+            "adj.": "单独的"
+        },
+        "although": {
+            "conj.": "尽管"
+        },
+        "illusion": {
+            "n.": "错觉"
+        },
+        "numerous": {
+            "adj.": "众多的"
+        },
+        "defect": {
+            "n.": "缺陷"
+        },
+        "answer": {
+            "n.": "回答"
+        },
+        "art": {
+            "n.": "艺术"
+        },
+        "article": {
+            "n.": "文章"
+        },
+        "artist": {
+            "n.": "艺术家"
+        },
+        "slim": {
+            "adj.": "苗条的"
+        },
+        "anxious": {
+            "adj.": "焦虑的"
+        },
+        "persist": {
+            "v.": "坚持"
+        },
+        "lately": {
+            "adv.": "最近"
+        },
+        "lighten": {
+            "v.": "照亮"
+        },
+        "conscience": {
+            "n.": "良心"
+        },
+        "time-consuming": {
+            "adj.": "耗费时间的"
+        },
+        "apology": {
+            "n.": "道歉；歉意"
+        },
+        "attain": {
+            "v.": "获得"
+        },
+        "vacant": {
+            "adj.": "空的"
+        },
+        "deceive": {
+            "v.": "欺骗"
+        },
+        "bankrupt": {
+            "adj.": "破产的"
+        },
+        "resume": {
+            "n.": "简历",
+            "v.": "继续"
+        },
+        "basis": {
+            "n.": "基础，根据"
+        },
+        "revive": {
+            "v.": "复苏"
+        },
+        "battery": {
+            "n.": "电池(组)"
+        },
+        "obesity": {
+            "n.": "肥胖"
+        },
+        "delete": {
+            "v.": "删除"
+        },
+        "bound": {
+            "adj.": "必定的(to)"
+        },
+        "worthwhile": {
+            "adj.": "值得(做)的"
+        },
+        "cargo": {
+            "n.": "船货，货物"
+        },
+        "simulate": {
+            "v.": "假装，模仿"
+        },
+        "carry": {
+            "v.": "运送，运载，携带；传送，输送"
+        },
+        "childhood": {
+            "n.": "童年，幼年"
         }
     }
 }
