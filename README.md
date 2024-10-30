@@ -10,7 +10,7 @@
 
 单词间隔作用于范围发音的。 ”范围顺序发音“ 的默认间隔是3s，“范围随机听写” 的默认间隔是10s。
 
-![image-20241030165532447](C:\Users\ssddffAA\AppData\Roaming\Typora\typora-user-images\image-20241030165532447.png)
+![image](https://github.com/user-attachments/assets/a86e1447-894a-4a69-a8b8-edcd22733d9e)
 
 当开始发音时，会通过调用Edge浏览器搜索有道词典进行查找并且触发发音按钮（英式）。
 
@@ -40,3 +40,6 @@
 ```
 
 如果说，你想把大量的单词导入到你自己的单词表中或者添加到已有的单词表中，却止步于大工作量和格式问题，那么我向你推荐使用AI编写单词表。
+如下，我准备了一些单词，并发送给AI。
+![c5b779007c4ef0ad401746d4bb3705e1](https://github.com/user-attachments/assets/2ff3d8f5-6cc9-4491-a9ea-4f8019651db8)
+![image](https://github.com/user-attachments/assets/54fb2615-3056-4abd-bbe5-c0e1f4872f6f)
