@@ -1,4 +1,5 @@
 import json
+import sys
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.service import Service
@@ -49,7 +50,7 @@ class WordsApp:
         self.end_entry.grid(row=1, column=1, sticky='ew', padx=5, pady=5)
 
         # 创建听写间隔输入框和标签
-        ttk.Label(left_frame, text="听写间隔(s):", style='TLabel').grid(row=2, column=0, sticky='e', padx=5, pady=5)
+        ttk.Label(left_frame, text="单词发音间隔(s):", style='TLabel').grid(row=2, column=0, sticky='e', padx=5, pady=5)
         self.interval_entry = Entry(left_frame)
         self.interval_entry.grid(row=2, column=1, sticky='ew', padx=5, pady=5)
 
@@ -87,6 +88,9 @@ class WordsApp:
         self.word_file_name = None
 
         # 加载单词列表
+        self.words_dict = None
+        self.word_file_name = None
+        self.words_loaded = False  # 添加一个标志来跟踪单词列表是否已加载
         self.load_word_list()
 
         # 打印单词表
@@ -98,25 +102,26 @@ class WordsApp:
         self.driver = None
 
     def load_word_list(self):
-        try:
-            with open('words.json', 'r', encoding='utf-8') as f:
-                self.words_dict = json.load(f)['word']
-            self.print_words()
-        except FileNotFoundError:
-            messagebox.showerror("错误", "未找到words.json文件。")
-            self.select_word_file()
-        except json.JSONDecodeError:
-            messagebox.showerror("错误", "文件格式不正确。")
-            self.select_word_file()
+        if not self.words_loaded:  # 如果单词列表未加载，尝试加载
+            try:
+                with open('words.json', 'r', encoding='utf-8') as f:
+                    self.words_dict = json.load(f)['word']
+                self.print_words()
+                self.words_loaded = True  # 标记单词列表已加载
+            except (FileNotFoundError, json.JSONDecodeError) as e:
+                messagebox.showerror("错误", f"发生错误：{e}")
+                self.select_word_file()
 
     def select_word_file(self):
         file_path = filedialog.askopenfilename(
             initialdir=os.getcwd(),
             title="选择单词表",
-            filetypes=(("JSON files", "*.json"), ("all files", "*.*"))
+            filetypes=(("JSON 文件", "*.json"), ("所有文件", "*.*"))
         )
-        if file_path:
+        if file_path:  # 如果用户选择了文件
             self.load_word_file(file_path)
+        else:  # 如果用户关闭了选择文件窗口
+            sys.exit(0)  # 退出程序
 
     def load_word_file(self, file_path):
         try:
@@ -125,10 +130,10 @@ class WordsApp:
             self.word_file_name = file_path
             self.print_words()
             messagebox.showinfo("成功", "单词表加载成功。")
-        except FileNotFoundError:
-            messagebox.showerror("错误", "未找到文件。")
-        except json.JSONDecodeError:
-            messagebox.showerror("错误", "文件格式不正确。")
+            self.words_loaded = True  # 标记单词列表已加载
+        except (FileNotFoundError, json.JSONDecodeError) as e:
+            messagebox.showerror("错误", f"发生错误：{e}")
+            sys.exit(0)  # 如果文件未找到或格式不正确，退出程序
 
     def init_browser(self):
         if self.driver is None or not self.is_browser_open():
@@ -165,7 +170,10 @@ class WordsApp:
             return
 
         words_list = list(self.words_dict.keys())[start_index-1:end_index]
-        self.pronounce_words(words_list)
+        interval = self.get_interval_from_entry(self.interval_entry)
+        if interval is None or interval < 1 or interval > 90:
+            interval = 3  # 如果输入的值不合法，使用默认值10秒
+        self.pronounce_words(words_list, interval)
 
     def random_pronounce(self):
         if self.pronounce_thread is not None and self.pronounce_thread.is_alive():
